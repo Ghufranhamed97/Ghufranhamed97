@@ -1,6 +1,6 @@
 # Hi, I'm Ghufran 🌸
 
-**Backend Developer · Zain Iraq 🇮🇶**
+**Backend Developer · Zain Iraq **
 
 I build and maintain backend services in production — electronic voucher
 distribution, analytics event pipelines, and the integrations around them.
